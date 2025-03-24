@@ -15,4 +15,18 @@ Este projeto faz parte do desafio da DIO.me, onde analisamos frases utilizando i
 
 ## Prints e Demonstração
 
-(Insira prints aqui, se necessário)
+### Projeto Spring Boot
+
+![Projeto Spring Boot](https://raw.githubusercontent.com/Saulolucena27/desafio-dio.me/main/prints/projeto-spring.png)
+
+### Projeto Maven com MapStruct
+
+![Projeto Maven](https://raw.githubusercontent.com/Saulolucena27/desafio-dio.me/main/prints/projeto-maven.png)
+
+### Projeto Angular - Parte 1
+
+![Angular Parte 1](https://raw.githubusercontent.com/Saulolucena27/desafio-dio.me/main/prints/angular-1.png)
+
+### Projeto Angular - Parte 2
+
+![Angular Parte 2](https://raw.githubusercontent.com/Saulolucena27/desafio-dio.me/main/prints/angular-2.png)
